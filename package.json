@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heigeo/cordova-plugin-tensorflow.git"
+    "url": "https://github.com/Kinestoo/cordova-plugin-tensorflow.git"
   },
   "keywords": [
     "ai",
@@ -33,7 +33,7 @@
   "author": "Houston Engineering, Inc.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/heigeo/cordova-plugin-tensorflow/issues"
+    "url": "https://github.com/Kinestoo/cordova-plugin-tensorflow/issues"
   },
-  "homepage": "https://github.com/heigeo/cordova-plugin-tensorflow#readme"
+  "homepage": "https://github.com/Kinestoo/cordova-plugin-tensorflow#readme"
 }
